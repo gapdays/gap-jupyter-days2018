@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Jupyter in GAP and other CAS'
+tagline:          'GAP Jupyter Days'
+description:      'Workshop '
+location:         'University of St Andrews'
+url:              http://gapdays.de
+baseurl:          /gap-jupyter-days2018
+
+
+exclude: [ "LICENSE.hyde.md", "README.hyde.md" ]
+include: [ ]
