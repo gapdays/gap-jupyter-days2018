@@ -14,7 +14,7 @@ title: Program
 
 ### Tuesday
 
-* 10am: Pedro A. García-Sánchez: Experiences with Jupyter & GAP
+* 10am: Pedro A. García-Sánchez: Experiencing with Jupyter GAP
 
 ### Wednesday
 
