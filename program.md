@@ -36,7 +36,7 @@ the plans for the day and summarise the achievements respectively.
 * 10:10: Markus Pfeiffer: Introduction to the GAP-Jupyter kernel
 * 11:30: Markus Pfeiffer: Installing the GAP-Jupyter kernel
 
-* 14:00: Diskussion:
+* 14:00: Discussion:
     * General perspectives and use cases for GAP in Jupyter
     * Projects for the week
 * 15:30: Basic setup for Binder
@@ -44,7 +44,7 @@ the plans for the day and summarise the achievements respectively.
 ### Tuesday
 
 * 09:30: Stand-Up: Agenda for today
-* 10:00: Pedro A. García-Sánchez: Experiencing with Jupyter GAP
+* 10:00: Pedro A. García-Sánchez: Experiences with Jupyter GAP
 * 16:30: Stand-Up: todays results
 
 ### Wednesday
