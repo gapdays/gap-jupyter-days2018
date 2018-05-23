@@ -21,6 +21,7 @@ title: Program
     * Support for JupyterLab
     * Installation?
     * Better errors/debugging
+* Automated testing for Jupyter kernel
 * Discussion on vision for teaching with Jupyter and GAP, document that outlines the next steps
 * Integrating ThebeLab into GAPDoc HTML Manuals
 * Converting GAPDoc into Jupyter Notebooks
