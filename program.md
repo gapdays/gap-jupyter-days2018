@@ -45,7 +45,7 @@ the plans for the day and summarise the achievements respectively.
 ### Tuesday
 
 * 09:30: Stand-Up: Agenda for today
-* 10:00: Pedro A. García-Sánchez: Experiences with Jupyter GAP
+* 10:00: [Pedro A. García-Sánchez: Experiencing with Jupyter GAP]({{ site.baseurl }}/abstracts/AbstractPedro)
 * 16:30: Stand-Up: todays results
 
 ### Wednesday
