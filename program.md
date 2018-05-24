@@ -13,7 +13,7 @@ title: Program
 * Create a Binder-Ready GAP Docker image that people can use for their Binder repositories
 * Create a webpage for collecting GAP-Jupyter notebooks
 * Try installing the GAP-Jupyter kernel on CoCalc and Nicolas Cloud
-* Fix remainig big issues in the GAP-Juptyer kernel:
+* Fix remainig big issues in the GAP-Juptyer kernel, make a release and deposit with GAP for 4.9.2:
     * Syntax error and Warning display
     * error handling (break loop?)
     * Info messages
@@ -25,6 +25,7 @@ title: Program
 * Discussion on vision for teaching with Jupyter and GAP, document that outlines the next steps
 * Integrating ThebeLab into GAPDoc HTML Manuals
 * Converting GAPDoc into Jupyter Notebooks
+* Release Francy
 
 ## Detailed Schedule
 
@@ -52,6 +53,7 @@ the plans for the day and summarise the achievements respectively.
 
 * 09:30: Stand-Up: Agenda for today
 * 16:30: Stand-Up: todays results
+* 16:40: GAP Developer Meeting
 * 18:00: Workshop dinner (Venue TBA)
 
 ### Thursday
