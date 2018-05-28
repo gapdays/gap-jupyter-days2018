@@ -11,6 +11,7 @@ title: Program
 ### Projects
 
 * Create a Binder-Ready GAP Docker image that people can use for their Binder repositories
+* Try to use GAP-Jupyter on Microsoft Azure.
 * Create a webpage for collecting GAP-Jupyter notebooks
 * Try installing the GAP-Jupyter kernel on CoCalc and Nicolas Cloud
 * Fix remainig big issues in the GAP-Juptyer kernel, make a release and deposit with GAP for 4.9.2:
