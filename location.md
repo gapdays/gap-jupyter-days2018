@@ -4,7 +4,9 @@ title: Location
 ---
 
 The Workshop {{ site.title | strip_html }} will take place at the {{ site.location }}
-in the [School of Computer Science](http://www.cs.st-andrews.ac.uk/) (see its location [on OpenStreetMap](http://www.openstreetmap.org/way/155223867#map=19/56.34030/-2.80871)). 
+in Lecture Room 3 in the Gateway building (see its location [on OpenStreetMap](https://www.openstreetmap.org/way/27225074)).
+The venue is in the basement of the building: When you enter through the main door, turn left and go down the stairs.
+
 
 For further travel information about getting to St Andrews by air, rail or road, see [Visiting St Andrews](http://www.st-andrews.ac.uk/about/visiting/) page.
 
