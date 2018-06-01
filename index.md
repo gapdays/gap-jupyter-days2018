@@ -32,6 +32,13 @@ provide tutorials for use cases, etc.
 
 Program information will continuously updated on [the program page]({{ site.baseurl }}/program).
 
+## Pre-meeting meetup
+
+For people who are already in St Andrews on Sunday, we will meet up from 7pm at the [STABCO Brewpub](http://www.standrewsbrewingcompany.com/eat-and-drink.html#standrews), on 177 South Street St Andrews KY16 9EE,
+  ([map](https://www.openstreetmap.org/directions?from=&to=56.33893%2C-2.79911#map=19/56.33880/-2.80038&layers=N)).
+
+Some participants are coordinating arrival at [here](https://hackmd.io/NVtvzD_sQkOEcxDvfDFY2Q?edit#).
+
 ## Registering and stay
 
 The workshop will take place at the {{ site.location }}. Information about the
