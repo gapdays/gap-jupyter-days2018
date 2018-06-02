@@ -42,7 +42,7 @@ the plans for the day and summarise the achievements respectively.
 * 14:00: Discussion:
     * General perspectives and use cases for GAP in Jupyter
     * Projects for the week
-* 15:30: Basic setup for Binder
+* 15:30: Sebastian Gutsche: Basic setup for Binder
 
 ### Tuesday
 
