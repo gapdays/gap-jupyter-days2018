@@ -8,6 +8,10 @@ title: Program
 * Start: Monday June 4th 2018 at 09:30
 * Finish: Friday June 8th 2018 at 17:00
 
+### Pad for the workshop
+
+[https://bit.ly/2Je8yPn](https://bit.ly/2Je8yPn)
+
 ### Projects
 
 * Create a Binder-Ready GAP Docker image that people can use for their Binder repositories
