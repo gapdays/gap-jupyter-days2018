@@ -36,19 +36,21 @@ the plans for the day and summarise the achievements respectively.
 ### Monday
 
 * 10:00: Welcome
-* 10:10: Markus Pfeiffer: Introduction to the GAP-Jupyter kernel
-* 11:30: Markus Pfeiffer: Installing the GAP-Jupyter kernel
 
 * 14:00: Discussion:
     * General perspectives and use cases for GAP in Jupyter
     * Projects for the week
-* 15:30: Sebastian Gutsche: Basic setup for Binder
+* 16:30: Stand-Up: todays results
 
 ### Tuesday
 
-* 09:30: Stand-Up: Agenda for today
-* 10:00: [Pedro A. García-Sánchez: Experiencing with Jupyter GAP]({{ site.baseurl }}/abstracts/AbstractPedro)
-* 11:00: [Nusa Zidaric: FSR - Feedback Shift Registers]({{ site.baseurl}}/abstracts/AbstractNusa.pdf)
+* 09:45: Markus Pfeiffer: Introduction to the GAP-Jupyter kernel
+* 11:15: Markus Pfeiffer: Installing the GAP-Jupyter kernel
+* 11:45: Sebastian Gutsche: Basic setup for Binder
+* 12:15: Stand-Up: Agenda for today
+
+* 14:00: [Pedro A. García-Sánchez: Experiencing with Jupyter GAP]({{ site.baseurl }}/abstracts/AbstractPedro)
+* 14:30: [Nusa Zidaric: FSR - Feedback Shift Registers]({{ site.baseurl}}/abstracts/AbstractNusa.pdf)
 * 16:30: Stand-Up: todays results
 
 ### Wednesday
