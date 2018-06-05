@@ -61,7 +61,7 @@ the plans for the day and summarise the achievements respectively.
 * 09:30: Stand-Up: Agenda for today
 * 16:30: Stand-Up: todays results
 * 16:40: GAP Developer Meeting
-* 18:00: Workshop dinner (Venue TBA)
+* 18:00: Workshop dinner (At Forgan's St Andrews)
 
 ### Thursday
 
