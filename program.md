@@ -55,7 +55,6 @@ the plans for the day and summarise the achievements respectively.
 
 * 14:00: [Pedro A. García-Sánchez: Experiencing with Jupyter GAP]({{ site.baseurl }}/abstracts/AbstractPedro)
 * 14:30: [Nusa Zidaric: FSR - Feedback Shift Registers]({{ site.baseurl}}/abstracts/AbstractNusa.pdf)
-* 16:30: Stand-Up: todays results
 
 ### Wednesday
 
