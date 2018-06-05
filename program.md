@@ -50,8 +50,8 @@ the plans for the day and summarise the achievements respectively.
 
 * 09:45: Markus Pfeiffer: Introduction to the GAP-Jupyter kernel
 * 11:15: Markus Pfeiffer: Installing the GAP-Jupyter kernel
-* 11:45: Sebastian Gutsche: Basic setup for Binder
-* 12:15: Stand-Up: Agenda for today
+* 11:45: [Sebastian Gutsche: Basic setup for Binder](https://sebasguts.github.io/GAPDaysBinderTutorial)
+* 12:15: [Nicolas M. Thiéry: ThebeLab demo](https://minrk.github.io/thebelab/demo.html)
 
 * 14:00: [Pedro A. García-Sánchez: Experiencing with Jupyter GAP]({{ site.baseurl }}/abstracts/AbstractPedro)
 * 14:30: [Nusa Zidaric: FSR - Feedback Shift Registers]({{ site.baseurl}}/abstracts/AbstractNusa.pdf)
