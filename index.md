@@ -54,4 +54,4 @@ If you have questions or suggestions, please contact the organizers:
 
 ## Previous GAP Days
 
-Please visit <http://gapdays.de/> for a list of all GAP days.
+Please visit <https://www.gapdays.de/> for a list of all GAP days.

@@ -1,12 +1,13 @@
-This is the website for the [GAP Jupyter workshop](http://gapdays.de/gap-jupyter-days2018).
+This is the website for the [GAP Jupyter workshop](https://www.gapdays.de/gap-jupyter-days2018).
 
-It is based on [Jekyll](http://jekyllrb.com/), a static website generator,
+It is based on [Jekyll](https://jekyllrb.com/), a static website generator,
 and the [hyde](https://github.com/poole/hyde/) template.
 
 If you want to test site on your own machine, first install Jekyll (as
 described on its website), then do this:
 ```
   git clone https://github.com/gapdays/gap-jupyter-days2018
+  cd gap-jupyter-days2018
   jekyll serve -w
 ```
 Now open a browser on http://localhost:4000/ to see a live preview
@@ -28,7 +29,7 @@ steps:
       - the "registration_open" entry at the top can be used to
         enable / disable registration
       - Update the "form_api_token" value at the
-        top of the file. See http://getsimpleform.com for more
+        top of the file. See https://getsimpleform.com for more
         information. (Note that notification emails for new
         registrations are sent to a single email address. So I
         recommend setting up an address that can deliver to multiple people.)
@@ -51,9 +52,5 @@ steps:
                 "photo": ../photo/john_doe.jpg
 
 
-3. Optionally, edit program.tex, run pdflatex on it, and add the resulting PDF. Or, if you don't want to use it, just remove both the .tex and .pdf
-
-
-
-Max Horn <max@quendi.de>, September 2015
-Sebastian Gutsche <gutsche@mathematik.uni-siegen.de>, November 2017
+3. Optionally, edit program.tex, run pdflatex on it, and add the resulting
+  PDF. Or, if you don't want to use it, just remove both the .tex and .pdf
